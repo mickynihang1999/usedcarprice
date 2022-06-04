@@ -13,6 +13,6 @@
 • If you want to view the deployed model, click on the following link:<br />
 Deployed at: https://usedcarpriceprediction2022.herokuapp.com/
 
-• If you are searching for __Code__, __Algorithms used__ and __Accuracy__ of the model.. you can find it in **used car price prediction.ipynb** file
+• If you are searching for __Code__, __Algorithms used__ and __Accuracy__ of the model.. you can find it in **Used_Car_Price_Prediction.ipynb** file
 
 • If you like my work and it helped you in anyway then please do ⭐ the repository it will motivate me to make more amazing projects. 
