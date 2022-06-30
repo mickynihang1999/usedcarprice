@@ -5,7 +5,7 @@
 • This project is about Used Car Price Prediction, In this project i will take some input from user and my machine learning model will predict selling price of vehicle.
 
 ### Tools and Technologies
-• In this project i used cardekho.com dataset from kaggle.com, I had trained a **Machine Learning** model and i got **95.92%** accuracy using Random Forest Regressor.
+• In this project i used cardekho.com dataset from kaggle.com, I had trained a **Machine Learning** model and i got **84.73%** accuracy using Random Forest Regressor.
 
 
 • This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Flask___ on ___Heroku___ platform.
